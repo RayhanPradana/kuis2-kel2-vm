@@ -6,6 +6,5 @@
 </head>
 <body>
     <h1>Rayhan Pradana</h1>
-    <h1>Rayhan Pradana</h1>
 </body>
 </html>
