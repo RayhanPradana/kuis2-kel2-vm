@@ -161,7 +161,7 @@
                         <div class="file-icon">
                             <i class="fas fa-user-nurse"></i>
                         </div>
-                        <div class="file-name">Eka</div>
+                        <div class="file-name">Eka Yulianita Widyanti</div>
                     </div>
                 </a>
                 
@@ -179,7 +179,7 @@
                         <div class="file-icon">
                             <i class="fas fa-user-tie"></i>
                         </div>
-                        <div class="file-name">Ja'far</div>
+                        <div class="file-name">Ja'far Malik Ibrahim</div>
                     </div>
                 </a>
                 
@@ -188,7 +188,7 @@
                         <div class="file-icon">
                             <i class="fas fa-user-graduate"></i>
                         </div>
-                        <div class="file-name">Puput</div>
+                        <div class="file-name">Puput Galuh Candra Dewi</div>
                     </div>
                 </a>
                 
@@ -197,7 +197,7 @@
                         <div class="file-icon">
                             <i class="fas fa-user-astronaut"></i>
                         </div>
-                        <div class="file-name">Rayhan</div>
+                        <div class="file-name">Rayhan Pradana Putra Nugraha</div>
                     </div>
                 </a>
                 
@@ -206,7 +206,7 @@
                         <div class="file-icon">
                             <i class="fas fa-user-ninja"></i>
                         </div>
-                        <div class="file-name">Risqy</div>
+                        <div class="file-name">Rizqy Eka Ramadhan</div>
                     </div>
                 </a>
             </div>
